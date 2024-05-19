@@ -49,6 +49,6 @@ Contributions to GemiLla are welcome! If you have ideas for new features, sugges
 5. Create a pull request to merge your changes.
 
 ## Author
-GemiLla is maintained by Elsayed Elmandoh, an AI Engineer interested in Machine Learning, Deep Learning, and NLP. You can connect with Elsayed on [LinkedIn](https://www.linkedin.com/in/elsayed-elmandoh-77544428a/) or follow him on [Twitter](https://twitter.com/elsayedelmandoo) for updates on AI and data science.
+GemiLla is maintained by Elsayed Elmandoh, an AI Engineer interested in Machine Learning, Deep Learning, and NLP. You can connect with Elsayed on [LinkedIn](https://www.linkedin.com/in/elsayed-elmandoh-77544428a/) or follow him on [Twitter](https://x.com/aang0007) for updates on AI and data science.
 
 Happy coding!
