@@ -1,6 +1,6 @@
 # GemiLla: Conversational Agents
 
-GemiLla is a Streamlit-based project that allows two conversational agents, Gemini and LLaMA, to engage in interactive discussions. It demonstrates the integration of Google Generative AI and Meta's LLAMA-3, providing an engaging and flexible conversation interface.
+GemiLla is a Streamlit-based project that allows two conversational agents, Gemini and LLaMA-3, to engage in interactive discussions. It demonstrates the integration of Google's Gemini and Meta's LLAMA-3, providing an engaging and flexible conversation interface.
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
@@ -10,7 +10,7 @@ GemiLla is a Streamlit-based project that allows two conversational agents, Gemi
 5. [Author](#author)
 
 ## Project Overview
-GemiLla creates a conversation between two AI agents, Gemini and LLaMA. It allows users to select conversation topics, customize prompts, and choose the number of rounds for interaction. The project uses Google Generative AI and Meta's LLAMA-3 to generate responses, creating a dynamic and interactive experience.
+GemiLla creates a conversation between two AI agents, Gemini and LLaMA. It allows users to select conversation topics, customize prompts, and choose the number of rounds for interaction. The project uses Google's Gemini and Meta's LLAMA-3 to generate responses, creating a dynamic and interactive experience.
 
 ## Installation
 To set up GemiLla on your local environment, ensure you have the following requirements:
@@ -40,15 +40,16 @@ You will be able to:
 - Choose the number of rounds for the interaction.
 
 ## Contributing
-Contributions to GemiLla are welcome! If you have ideas for new features, suggestions for improvements, or bug fixes, feel free to open issues or submit pull requests. Contributions should follow the standard Git workflow:
 
-1. Fork the repository.
-2. Create a new branch for your feature or fix.
-3. Make your changes and commit them with a descriptive message.
-4. Push your branch to your forked repository.
-5. Create a pull request to merge your changes.
+Contributions are welcome! If you have suggestions, improvements, or additional content to contribute, feel free to open issues, submit pull requests, or provide feedback. 
+
+[![GitHub watchers](https://img.shields.io/github/watchers/elsayedelmandoh/naive-bayes-LSTM-for-sentiment-analysis-NLP-widebot.svg?style=social&label=Watch)](https://GitHub.com/elsayedelmandoh/naive-bayes-LSTM-for-sentiment-analysis-NLP-widebot/watchers/?WT.mc_id=academic-105485-koreyst)
+[![GitHub forks](https://img.shields.io/github/forks/elsayedelmandoh/naive-bayes-LSTM-for-sentiment-analysis-NLP-widebot.svg?style=social&label=Fork)](https://GitHub.com/elsayedelmandoh/naive-bayes-LSTM-for-sentiment-analysis-NLP-widebot/network/?WT.mc_id=academic-105485-koreyst)
+[![GitHub stars](https://img.shields.io/github/stars/elsayedelmandoh/naive-bayes-LSTM-for-sentiment-analysis-NLP-widebot.svg?style=social&label=Star)](https://GitHub.com/elsayedelmandoh/naive-bayes-LSTM-for-sentiment-analysis-NLP-widebot/stargazers/?WT.mc_id=academic-105485-koreyst)
 
 ## Author
-GemiLla is maintained by Elsayed Elmandoh, an AI Engineer interested in Machine Learning, Deep Learning, and NLP. You can connect with Elsayed on [LinkedIn](https://www.linkedin.com/in/elsayed-elmandoh-77544428a/) or follow him on [Twitter](https://x.com/aang0007) for updates on AI and data science.
+
+This repository is maintained by Elsayed Elmandoh, an AI Engineer. You can connect with Elsayed on [LinkedIn and Twitter/X](https://linktr.ee/elsayedelmandoh) for updates and discussions related to Machine learning, deep learning and NLP.
 
 Happy coding!
+
